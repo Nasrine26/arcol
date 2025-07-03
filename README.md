@@ -9,7 +9,7 @@ Using the spatial transcriptomic profiles of multiple samples, we interrogate ho
 Finally, we identify ligand-receptor interactions mediated by CAFs, immunosuppressive and inflammatory TAMs that shape the inflammatory regenerative programme in CRC malignant cells in liver metastases.
 
 ## Overview
-This project includes workflows covering data preprocessing, quality control, scRNA-seq/snRNA-seq integration (via scVI), dimensionality reduction, clustering, spatial deconvolution (cell2location), spatial niche inference and cell-cell communication (CellPhoneDB, NicheNet). Code for my [PhD thesis](https://qmro.qmul.ac.uk/xmlui/handle/123456789/103970) and for our [preprint](https://doi.org/10.21203/rs.3.rs-3846377/v1).
+This project includes workflows covering data preprocessing, quality control, scRNA-seq/snRNA-seq integration (via scVI), dimensionality reduction, clustering, spatial deconvolution (cell2location), spatial niche inference and cell-cell communication (CellPhoneDB, NicheNet). Code for my [PhD thesis](https://qmro.qmul.ac.uk/xmlui/handle/123456789/103970) and for our [paper](https://www.sciencedirect.com/science/article/pii/S2666979X25001375).
 
 <figure>
 <img src="workflow_overall.png"
